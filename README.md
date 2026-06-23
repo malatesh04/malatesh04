@@ -98,6 +98,6 @@
 
 <div align="center">
 
-### ⚡ "Keep Learning. Keep Building. Keep Growing."
+### ⚡ " effort > success "
 
 </div>
