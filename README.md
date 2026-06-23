@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Malatesh B N
+#  👋 Hi, I'm 𝙈𝙖𝙡𝙖𝙩𝙚𝙨𝙝 𝘽 𝙉
 
 ### Electronics & Communication Engineering Student | Full Stack Developer | Python Enthusiast
 
