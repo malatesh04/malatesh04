@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,vscode,antigravity" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -64,6 +64,13 @@
 - Modern UI Design
 - Responsive Layout
 - Project Showcase
+
+### 🍱 MealMate
+- 🔐 Secure User Login
+- 🍽️ Browse & Search Meals
+- 🛒 Cart Management
+- 📦 Order Placement
+- 📱 Responsive UI
 
 ---
 
