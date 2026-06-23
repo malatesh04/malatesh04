@@ -48,8 +48,6 @@
 ---
 
 
----
-
 ## 💼 Featured Projects
 
 ### 🚦 Smart Traffic Light Controller using Verilog
