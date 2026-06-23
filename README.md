@@ -1,110 +1,104 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Malatesh B N</h1>
 
-# Hi 👋, I'm Malatesh B N
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=ECE+Student+%7C+Frontend+Developer;Python+%7C+React+%7C+SQL;Embedded+Systems+Enthusiast;Always+Learning+New+Technologies" />
-
-</div>
+<h3 align="center">
+Electronics & Communication Engineering Student | Full Stack Developer | Python Enthusiast
+</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Electronics & Communication Engineering Student (2026)
-
-💻 Learning Full Stack Development
-
-🌱 Currently learning React, Python, SQL & Django
-
-🔬 Interested in Embedded Systems & VLSI
-
-🚦 Built Smart Traffic Light Controller using Verilog
-
-📍 Karnataka, India
+- 🎓 ECE Student (2026 Batch)
+- 💻 Learning Full Stack Development
+- 🌱 Currently learning React, Python, SQL & Django
+- 🔧 Interested in Embedded Systems & VLSI
+- 🚀 Looking for Software Developer Opportunities
+- 📍 Karnataka, India
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Tech Stack
 
-<p align="left">
-<a href="https://github.com/malatesh04">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://in.linkedin.com/in/malatesh-bn-21185727a">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,c" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 📂 Projects
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🚦 Smart Traffic Light Controller
-- Verilog HDL
+### 🚦 Smart Traffic Light Controller using Verilog
 - Emergency Vehicle Priority
-- Pedestrian Crossing
-- Night Mode
+- Pedestrian Crossing System
+- Night Mode Operation
 - Traffic Adaptive Control
 
 ### 🛒 E-Commerce Website
 - HTML
 - CSS
 - JavaScript
-
-### 🌐 Personal Portfolio Website
 - Responsive Design
-- Modern UI
+
+### 🌐 Portfolio Website
+- Personal Portfolio
+- Project Showcase
+- Responsive UI
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=malatesh04&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malatesh04&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=malatesh04&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=malatesh04&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=malatesh04&theme=tokyonight&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malatesh04&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🌐 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=malatesh04&theme=tokyo-night" />
+<p>
+<a href="https://github.com/malatesh04">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:malateshbn178@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 ---
 
-<div align="center">
-
-### ⭐ Turning Ideas into Code
-
-</div>
+⭐️ From Malatesh B N
