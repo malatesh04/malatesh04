@@ -56,11 +56,12 @@
 - 📦 Order Placement
 - 📱 Responsive UI
 
-### 🚦 Smart Traffic Light Controller using Verilog
-- Emergency Vehicle Priority
-- Pedestrian Crossing
-- Night Mode
-- Traffic Adaptive Control
+### 🎓 Learning Management System (LMS)
+- 🔐 Secure User Login
+- 📚 Browse & Enroll in Courses
+- 🎥 Access Learning Materials
+- 📊 Track Learning Progress
+- 📱 Responsive UI
 
 ### 🛒 E-Commerce Website
 - HTML, CSS, JavaScript
