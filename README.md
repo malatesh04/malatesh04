@@ -4,7 +4,7 @@
 
 ### Electronics & Communication Engineering Student | Full Stack Developer | Python Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;React+Learner;Embedded+Systems+Enthusiast;Open+to+Software+Developer+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;React+Learner;Open+to+Software+Developer+Roles" alt="Typing SVG" />
 
 </div>
 
