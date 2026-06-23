@@ -15,16 +15,15 @@
 - 🎓 ECE Student (2026)
 - 💻 Learning Full Stack Development
 - 🌱 Currently exploring React, Django, SQL & AI Tools
-- 🔧 Interested in Embedded Systems & VLSI
 - 🚀 Looking for Software Development Opportunities
-- 📍 Karnataka, India
+- 📍 Haveri, Karnataka, India
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,vscode,antigravity" />
 </p>
 
 ---
