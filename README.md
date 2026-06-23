@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://in.linkedin.com/in/malatesh-bn-21185727a" />
 </a>
 </p>
 
