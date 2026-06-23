@@ -63,15 +63,13 @@
 - 📊 Track Learning Progress
 - 📱 Responsive UI
 
-### 🛒 E-Commerce Website
-- HTML, CSS, JavaScript
-- Responsive UI
-- Product Filtering
+🛒 E-Commerce Website
+- 💻 HTML, CSS, JavaScript
+- 📱 Responsive UI
+- 🔍 Product Filtering
+- 🛍️ Product Catalog
+- ⚡ Interactive User Experience
 
-### 🌐 Personal Portfolio
-- Modern UI Design
-- Responsive Layout
-- Project Showcase
 
 
 ---
