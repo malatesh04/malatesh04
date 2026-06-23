@@ -49,6 +49,13 @@
 
 ## 💼 Featured Projects
 
+### 🍱 MealMate – Food Ordering Web App
+- 🔐 Secure User Login
+- 🍽️ Browse & Search Meals
+- 🛒 Cart Management
+- 📦 Order Placement
+- 📱 Responsive UI
+
 ### 🚦 Smart Traffic Light Controller using Verilog
 - Emergency Vehicle Priority
 - Pedestrian Crossing
@@ -65,12 +72,6 @@
 - Responsive Layout
 - Project Showcase
 
-### 🍱 MealMate
-- 🔐 Secure User Login
-- 🍽️ Browse & Search Meals
-- 🛒 Cart Management
-- 📦 Order Placement
-- 📱 Responsive UI
 
 ---
 
