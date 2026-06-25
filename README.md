@@ -104,6 +104,6 @@
 
 <div align="center">
 
-### ⚡ " effort > success "
+### ⚡ " Hard Work, Consistency, Discipline > Success "
 
 </div>
